@@ -1,0 +1,15 @@
+{
+    "base_url": "https://opensource-demo.orangehrmlive.com",
+    "credentials": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "invalid_credentials": {
+        "username": "Admin1",
+        "password": "admin123"
+    },
+    "vacancy_name": "Automation Tester",
+    "description": "Automation Test Is Running",
+    "number_of_positions": 1
+
+}
